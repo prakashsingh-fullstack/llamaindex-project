@@ -6,3 +6,7 @@ streamlit
 langchain_openai
 langchain_core
 langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
